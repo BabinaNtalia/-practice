@@ -1,0 +1,10 @@
+C:\Users\natas\Music\практика\Практика\bin\Debug\Практика.exe.config
+C:\Users\natas\Music\практика\Практика\bin\Debug\Практика.exe
+C:\Users\natas\Music\практика\Практика\bin\Debug\Практика.pdb
+C:\Users\natas\Music\практика\Практика\obj\Debug\Практика.csprojAssemblyReference.cache
+C:\Users\natas\Music\практика\Практика\obj\Debug\Практика.Form1.resources
+C:\Users\natas\Music\практика\Практика\obj\Debug\Практика.Properties.Resources.resources
+C:\Users\natas\Music\практика\Практика\obj\Debug\Практика.csproj.GenerateResource.cache
+C:\Users\natas\Music\практика\Практика\obj\Debug\Практика.csproj.CoreCompileInputs.cache
+C:\Users\natas\Music\практика\Практика\obj\Debug\Практика.exe
+C:\Users\natas\Music\практика\Практика\obj\Debug\Практика.pdb
